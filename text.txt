@@ -1,0 +1,50 @@
+ 355  git init
+  356  git commit -m "First Commit"
+  357  git status
+  358  git add .
+  359  git commit -m "First Commit"
+  360  git add index.html
+  361  git commit -m "Actualizacion de html"
+  362  git add style.css
+  363  git commit -m "actualizacion de css"
+  364  git log
+  365  git revert -n HEAD
+  366  git log
+  367  git commit -m "revert a0b75743e5"
+  368  git log
+  369  git reset a0b7574 --hard
+  370  git log
+  371  git revert
+  372  git rever -n
+  373  git revert -n
+  374  git revert -n git log
+  375  git log
+  376  git revert -n 2670d48adf26c771a0c1930fb8067afbff1a6917
+  377  git commit -m "revert 2670d48adf26c771a0c1930fb8067afbff1a6917"
+  378  git log
+  379  git reset a0b75743e554a467668e1f0ac0ecf68d548641fc --hard
+  380  git log
+  381  git reset HEAD
+  382  git log
+  383  git reset a0b75743e554a467668e1f0ac0ecf68d548641fc --hard
+  384  git reset 2670d48adf26c771a0c1930fb8067afbff1a6917 --hard
+  385  git log
+  386  git commit -"reset 2670d48adf26c771a0c1930fb8067afbff1a6917"
+  387  git commit -m "reset 2670d48adf26c771a0c1930fb8067afbff1a6917"
+  388  git log
+  389  git add style.css
+  390  git commit -m "Actualización de css"
+  391  git log
+  392  git revert -n HEAD
+  393  git revert -n 2670d48adf26c771a0c1930fb8067afbff1a6917
+  394  git commit -m "revert HEAD and 2670d48adf26c771a0c1930fb8067afbff1a6917"
+  395  git log
+  396  git add .
+  397  git commit -m "Segunda actualización general"
+  398  git log
+  399  git reset fb671922252d4a60852e509570856fddcaf3a60f --hard
+  400  git log
+  401  git commit -m "Reset fb671922252d4a60852e509570856fddcaf3a60f"
+  402  git log
+  403  git diff --stat fb671922252d4a60852e509570856fddcaf3a60f
+  404  history 85
